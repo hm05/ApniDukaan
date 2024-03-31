@@ -1,5 +1,5 @@
 # ApniDukaan
-## author: [@Harsh Murjani](https://github.com/hm05)
+## Author: [@Harsh Murjani](https://github.com/hm05)
 ### This project is made for the subject IT264 - Full Stack Web Development
 
 ## Contributors are
