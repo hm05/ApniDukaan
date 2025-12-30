@@ -9,7 +9,7 @@ import { createBrowserRouter } from "react-router-dom";
 import PrivateRoute from "./components/PrivateRoute";
 
 // Auth
-import Login from "./pages/Auth/Login";
+import Login from "./pages/Auth/index.jsx";
 import Register from "./pages/Auth/Register";
 
 import AdminRoute from "./pages/Admin/AdminRoute";
